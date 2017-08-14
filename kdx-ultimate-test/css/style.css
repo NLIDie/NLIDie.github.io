@@ -477,9 +477,6 @@ template {
       background-color: #282d30;
       transition: background 0s, color 0s; }
 
-#template-order-car {
-  display: none !important; }
-
 .page-header {
   min-height: 80px;
   background-color: #282d30; }
