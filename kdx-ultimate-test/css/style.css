@@ -595,6 +595,9 @@ template {
     color: #999999;
     visibility: hidden;
     opacity: 0; }
+    .form__input-title--show {
+      visibility: visible;
+      opacity: 1; }
   .form__input {
     -ms-flex-order: 1;
         order: 1;
@@ -750,7 +753,7 @@ template {
   .indication-circle--red {
     background-color: #d74345;
     border-color: #d74345; }
-  .indication-circle--grey {
+  .indication-circle--gray {
     background-color: #cbcbcc;
     border-color: #cbcbcc; }
   .indication-circle--green {
